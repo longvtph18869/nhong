@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Mike Anderson",
+    "img": "img/testimonials/4.jpg",
+    "profession": "Vivaco Studio",
+    "details": "I rarely like to write reviews, but the Marketify team truly deserve a standing ovation for their customer support, customisation and most importantly, friendliness and professionalism. Many thanks once again for everything and hope that I get to deal with you again in the near future."
+  },
+  {
+    "name": "Keita Smith",
+    "img": "img/testimonials/3.jpg",
+    "profession": "ABC Group",
+    "details": "Really the Code Quality, Customer Support, and design are awesome and its good support they are giving. They give an instant solution to our needs. Really awesome. I will strongly recommend to my friends. Simply amazing team and amazing theme! Thank you from United States of America!"
+  },
+  {
+    "name": "Alan Walker",
+    "img": "img/testimonials/6.jpg",
+    "profession": "Web Designer",
+    "details": "Loved the template design, documentation, customizability and the customer support from Marketify team! I am a noob in programming with very little knowledge about coding but the Marketify team helped me to launch my resume website successfully. Much recommended!"
+  }
+]

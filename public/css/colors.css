@@ -1,0 +1,377 @@
+@charset "utf-8";
+
+
+.dizme_tm_settings .colors li a.blue{background-color: #4169e1;}
+.dizme_tm_settings .colors li a.green{background-color: #66B95C;}
+.dizme_tm_settings .colors li a.brown{background-color: #ff9800;}
+.dizme_tm_settings .colors li a.pink{background-color: #ff5e94;}
+.dizme_tm_settings .colors li a.orange{background-color: #fa5b0f;}
+.dizme_tm_settings .colors li a.black{background-color: #333;}
+.dizme_tm_settings .colors li a.white{background-color: #e5e5e5;}
+.dizme_tm_settings .colors li a.purple{background-color: #9200ee;}
+.dizme_tm_settings .colors li a.sky{background-color: #00D4BD;}
+.dizme_tm_settings .colors li a.cadetBlue{background-color: #5e9e9f;}
+.dizme_tm_settings .colors li a.crimson{background-color: #e54b4b;}
+.dizme_tm_settings .colors li a.olive{background-color: #666d41;}
+.dizme_tm_settings .colors li a.red{background-color: #fe0000;}
+
+
+.dizme_tm_all_wrap[data-color="blue"] .cursor-inner.cursor-hover{background-color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .cursor-outer{border-color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .cursor-inner{background-color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_home .details .name span{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_home .social ul li a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .leftpart .menu ul li.active a{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .leftpart .menu ul li a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .leftpart .copyright a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_about .description .name span{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_button a{background-color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_about .description .right > ul > li span{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_about .description .right > ul > li a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_title span{background-color: rgba(65,105,225,.04);}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_news ul li .details .date a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_news ul li .details .title a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_modalbox_news .date a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .progress_inner .background .bar_in{background: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_modalbox_about .counter ul li h3{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #4169e1;}
+.dizme_tm_all_wrap[data-color="blue"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #4169e1;}
+body.dark .dizme_tm_all_wrap[data-color="blue"] .leftpart .copyright a:hover{color: #4169e1;}
+body.dark .dizme_tm_all_wrap[data-color="blue"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="blue"] .leftpart .menu ul li.active a{color: #4169e1;}
+body.dark .dizme_tm_all_wrap[data-color="blue"] .leftpart .menu ul li a:hover{color: #4169e1;}
+
+
+.dizme_tm_all_wrap[data-color="green"] .cursor-inner.cursor-hover{background-color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .cursor-outer{border-color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .cursor-inner{background-color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_home .details .name span{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_home .social ul li a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .leftpart .menu ul li.active a{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .leftpart .menu ul li a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .leftpart .copyright a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_about .description .name span{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_button a{background-color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_about .description .right > ul > li span{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_about .description .right > ul > li a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_title span{background-color: rgba(102,185,92,.04);}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_news ul li .details .date a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_news ul li .details .title a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_modalbox_news .date a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .progress_inner .background .bar_in{background: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_modalbox_about .counter ul li h3{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #66B95C;}
+.dizme_tm_all_wrap[data-color="green"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #66B95C;}
+body.dark .dizme_tm_all_wrap[data-color="green"] .leftpart .copyright a:hover{color: #66B95C;}
+body.dark .dizme_tm_all_wrap[data-color="green"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="green"] .leftpart .menu ul li.active a{color: #66B95C;}
+body.dark .dizme_tm_all_wrap[data-color="green"] .leftpart .menu ul li a:hover{color: #66B95C;}
+
+
+.dizme_tm_all_wrap[data-color="brown"] .cursor-inner.cursor-hover{background-color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .cursor-outer{border-color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .cursor-inner{background-color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_home .details .name span{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_home .social ul li a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .leftpart .menu ul li.active a{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .leftpart .menu ul li a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .leftpart .copyright a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_about .description .name span{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_about .description .right > ul > li span{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_button a{background-color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_about .description .right > ul > li a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_title span{background-color: rgba(255,152,0,.04);}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_news ul li .details .date a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_news ul li .details .title a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_modalbox_news .date a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .progress_inner .background .bar_in{background: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_modalbox_about .counter ul li h3{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #ff9800;}
+.dizme_tm_all_wrap[data-color="brown"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #ff9800;}
+body.dark .dizme_tm_all_wrap[data-color="brown"] .leftpart .copyright a:hover{color: #ff9800;}
+body.dark .dizme_tm_all_wrap[data-color="brown"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="brown"] .leftpart .menu ul li.active a{color: #ff9800;}
+body.dark .dizme_tm_all_wrap[data-color="brown"] .leftpart .menu ul li a:hover{color: #ff9800;}
+
+
+.dizme_tm_all_wrap[data-color="pink"] .cursor-inner.cursor-hover{background-color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .cursor-outer{border-color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .cursor-inner{background-color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_home .details .name span{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_home .social ul li a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .leftpart .menu ul li.active a{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .leftpart .menu ul li a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .leftpart .copyright a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_about .description .name span{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_button a{background-color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_about .description .right > ul > li span{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_about .description .right > ul > li a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_title span{background-color: rgba(255,94,148,.04);}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_news ul li .details .date a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_news ul li .details .title a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_modalbox_news .date a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .progress_inner .background .bar_in{background: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_modalbox_about .counter ul li h3{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #ff5e94;}
+.dizme_tm_all_wrap[data-color="pink"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #ff5e94;}
+body.dark .dizme_tm_all_wrap[data-color="pink"] .leftpart .copyright a:hover{color: #ff5e94;}
+body.dark .dizme_tm_all_wrap[data-color="pink"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="pink"] .leftpart .menu ul li.active a{color: #ff5e94;}
+body.dark .dizme_tm_all_wrap[data-color="pink"] .leftpart .menu ul li a:hover{color: #ff5e94;}
+
+
+.dizme_tm_all_wrap[data-color="orange"] .cursor-inner.cursor-hover{background-color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .cursor-outer{border-color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .cursor-inner{background-color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_home .details .name span{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_home .social ul li a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .leftpart .menu ul li.active a{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .leftpart .menu ul li a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .leftpart .copyright a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_about .description .name span{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_about .description .right > ul > li span{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_button a{background-color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_about .description .right > ul > li a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_title span{background-color: rgba(250,91,15,.04);}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_news ul li .details .date a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_news ul li .details .title a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_modalbox_news .date a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .progress_inner .background .bar_in{background: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_modalbox_about .counter ul li h3{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #fa5b0f;}
+.dizme_tm_all_wrap[data-color="orange"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #fa5b0f;}
+body.dark .dizme_tm_all_wrap[data-color="orange"] .leftpart .copyright a:hover{color: #fa5b0f;}
+body.dark .dizme_tm_all_wrap[data-color="orange"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="orange"] .leftpart .menu ul li.active a{color: #fa5b0f;}
+body.dark .dizme_tm_all_wrap[data-color="orange"] .leftpart .menu ul li a:hover{color: #fa5b0f;}
+
+
+.dizme_tm_all_wrap[data-color="black"] .cursor-inner.cursor-hover{background-color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .cursor-outer{border-color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .cursor-inner{background-color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_home .details .name span{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_home .social ul li a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .leftpart .menu ul li.active a{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .leftpart .menu ul li a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .leftpart .copyright a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_about .description .name span{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_about .description .right > ul > li span{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_button a{background-color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_about .description .right > ul > li a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_title span{background-color: rgba(0,0,0,.04);}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_news ul li .details .date a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_news ul li .details .title a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_modalbox_news .date a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .progress_inner .background .bar_in{background: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_modalbox_about .counter ul li h3{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #000;}
+.dizme_tm_all_wrap[data-color="black"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #000;}
+body.dark .dizme_tm_all_wrap[data-color="black"] .leftpart .copyright a:hover{color: #000;}
+body.dark .dizme_tm_all_wrap[data-color="black"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="black"] .leftpart .menu ul li.active a{color: #000;}
+body.dark .dizme_tm_all_wrap[data-color="black"] .leftpart .menu ul li a:hover{color: #000;}
+
+
+.dizme_tm_all_wrap[data-color="white"] .cursor-inner.cursor-hover{background-color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .cursor-outer{border-color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .cursor-inner{background-color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_home .details .name span{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_home .social ul li a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .leftpart .menu ul li.active a{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .leftpart .menu ul li a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .leftpart .copyright a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_about .description .name span{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_about .description .right > ul > li span{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_button a{background-color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_about .description .right > ul > li a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_title span{background-color: rgba(255,255,255,.04);}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_news ul li .details .date a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_news ul li .details .title a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_modalbox_news .date a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #fff;}
+.dizme_tm_all_wrap[data-color="white"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="white"] .leftpart .copyright a:hover{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="white"] .leftpart .menu ul li.active a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="white"] .leftpart .menu ul li a:hover{color: #fff;}
+
+
+.dizme_tm_all_wrap[data-color="purple"] .cursor-inner.cursor-hover{background-color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .cursor-outer{border-color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .cursor-inner{background-color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_home .details .name span{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_home .social ul li a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .leftpart .menu ul li.active a{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .leftpart .menu ul li a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .leftpart .copyright a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_about .description .name span{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_about .description .right > ul > li span{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_button a{background-color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_about .description .right > ul > li a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_title span{background-color: rgba(146,0,238,.04);}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_news ul li .details .date a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_news ul li .details .title a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_modalbox_news .date a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .progress_inner .background .bar_in{background: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_modalbox_about .counter ul li h3{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #9200ee;}
+.dizme_tm_all_wrap[data-color="purple"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #9200ee;}
+body.dark .dizme_tm_all_wrap[data-color="purple"] .leftpart .copyright a:hover{color: #9200ee;}
+body.dark .dizme_tm_all_wrap[data-color="purple"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="purple"] .leftpart .menu ul li.active a{color: #9200ee;}
+body.dark .dizme_tm_all_wrap[data-color="purple"] .leftpart .menu ul li a:hover{color: #9200ee;}
+
+
+.dizme_tm_all_wrap[data-color="sky"] .cursor-inner.cursor-hover{background-color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .cursor-outer{border-color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .cursor-inner{background-color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_home .details .name span{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_home .social ul li a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .leftpart .menu ul li.active a{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .leftpart .menu ul li a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .leftpart .copyright a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_about .description .name span{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_about .description .right > ul > li span{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_button a{background-color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_about .description .right > ul > li a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_title span{background-color: rgba(0,212,189,.04);}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_news ul li .details .date a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_news ul li .details .title a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_modalbox_news .date a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .progress_inner .background .bar_in{background: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_modalbox_about .counter ul li h3{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #00D4BD;}
+.dizme_tm_all_wrap[data-color="sky"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #00D4BD;}
+body.dark .dizme_tm_all_wrap[data-color="sky"] .leftpart .copyright a:hover{color: #00D4BD;}
+body.dark .dizme_tm_all_wrap[data-color="sky"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="sky"] .leftpart .menu ul li.active a{color: #00D4BD;}
+body.dark .dizme_tm_all_wrap[data-color="sky"] .leftpart .menu ul li a:hover{color: #00D4BD;}
+
+
+.dizme_tm_all_wrap[data-color="cadetBlue"] .cursor-inner.cursor-hover{background-color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .cursor-outer{border-color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .cursor-inner{background-color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_home .details .name span{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_home .social ul li a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .leftpart .menu ul li.active a{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .leftpart .menu ul li a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .leftpart .copyright a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_about .description .name span{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_about .description .right > ul > li span{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_button a{background-color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_about .description .right > ul > li a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_title span{background-color: rgba(94,158,159,.04);}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_news ul li .details .date a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_news ul li .details .title a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_modalbox_news .date a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .progress_inner .background .bar_in{background: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_modalbox_about .counter ul li h3{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #5e9e9f;}
+.dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #5e9e9f;}
+body.dark .dizme_tm_all_wrap[data-color="cadetBlue"] .leftpart .copyright a:hover{color: #5e9e9f;}
+body.dark .dizme_tm_all_wrap[data-color="cadetBlue"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="cadetBlue"] .leftpart .menu ul li.active a{color: #5e9e9f;}
+body.dark .dizme_tm_all_wrap[data-color="cadetBlue"] .leftpart .menu ul li a:hover{color: #5e9e9f;}
+
+
+.dizme_tm_all_wrap[data-color="olive"] .cursor-inner.cursor-hover{background-color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .cursor-outer{border-color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .cursor-inner{background-color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_home .details .name span{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_home .social ul li a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .leftpart .menu ul li.active a{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .leftpart .menu ul li a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .leftpart .copyright a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_about .description .name span{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_about .description .right > ul > li span{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_button a{background-color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_about .description .right > ul > li a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_title span{background-color: rgba(102,109,65,.04);}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_news ul li .details .date a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_news ul li .details .title a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_modalbox_news .date a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .progress_inner .background .bar_in{background: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_modalbox_about .counter ul li h3{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #666d41;}
+.dizme_tm_all_wrap[data-color="olive"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #666d41;}
+body.dark .dizme_tm_all_wrap[data-color="olive"] .leftpart .copyright a:hover{color: #666d41;}
+body.dark .dizme_tm_all_wrap[data-color="olive"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="olive"] .leftpart .menu ul li.active a{color: #666d41;}
+body.dark .dizme_tm_all_wrap[data-color="olive"] .leftpart .menu ul li a:hover{color: #666d41;}
+
+
+.dizme_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_home .details .name span{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_home .social ul li a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .leftpart .menu ul li.active a{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .leftpart .menu ul li a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .leftpart .copyright a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_about .description .name span{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_about .description .right > ul > li span{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_button a{background-color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_about .description .right > ul > li a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_title span{background-color: rgba(229,75,75,.04);}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_news ul li .details .date a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_news ul li .details .title a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_modalbox_news .date a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .progress_inner .background .bar_in{background: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_modalbox_about .counter ul li h3{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #e54b4b;}
+.dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #e54b4b;}
+body.dark .dizme_tm_all_wrap[data-color="crimson"] .leftpart .copyright a:hover{color: #e54b4b;}
+body.dark .dizme_tm_all_wrap[data-color="crimson"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="crimson"] .leftpart .menu ul li.active a{color: #e54b4b;}
+body.dark .dizme_tm_all_wrap[data-color="crimson"] .leftpart .menu ul li a:hover{color: #e54b4b;}
+
+
+.dizme_tm_all_wrap[data-color="red"] .cursor-inner.cursor-hover{background-color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .cursor-outer{border-color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .cursor-inner{background-color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_home .details .name span{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_home .social ul li a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .leftpart .menu ul li.active a{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .leftpart .menu ul li a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .leftpart .copyright a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_about .description .name span{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_about .description .right > ul > li span{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_button a{background-color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_about .description .right > ul > li a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_portfolio .portfolio_filter ul li a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_title span{background-color: rgba(254,0,0,.04);}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_news ul li .details .date a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_news ul li .details .title a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_modalbox_news .date a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_modalbox_news .main_content .icon .svg{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .progress_inner .background .bar_in{background: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_modalbox_about .counter ul li h3{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_modalbox_news .news_share ul li a:hover{color: #fe0000;}
+.dizme_tm_all_wrap[data-color="red"] .dizme_tm_portfolio .portfolio_filter ul li a.current{color: #fe0000;}
+body.dark .dizme_tm_all_wrap[data-color="red"] .leftpart .copyright a:hover{color: #fe0000;}
+body.dark .dizme_tm_all_wrap[data-color="red"] .dizme_tm_button a{color: #fff;}
+body.dark .dizme_tm_all_wrap[data-color="red"] .leftpart .menu ul li.active a{color: #fe0000;}
+body.dark .dizme_tm_all_wrap[data-color="red"] .leftpart .menu ul li a:hover{color: #fe0000;}
+
