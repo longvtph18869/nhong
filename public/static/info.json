@@ -1,9 +1,9 @@
 {
-  "name": "Yuangang Li",
-  "address": "Los Angeles, CA",
-  "bio": "I'm creative designer based in New York, and I'm very passionate and dedicated to my work.",
-  "mainSkill": "Creative Designer",
-  "img": "/img/slider/avatar.png",
+  "name": "Vu Tien Long",
+  "address": "Ha Noi",
+  "bio": "I'm Fullstack developer in Ha Noi, and I'm very passionate and dedicated to my work.",
+  "mainSkill": "Fullstack developer",
+  "img": "/img/slider/avatar.jpg",
   "skills": [
     {
       "name": "illustrator",
@@ -25,13 +25,13 @@
     }
   ],
   "social": [
-    { "name": "facebook", "icon": "icon-facebook-1", "url": "https://www.linkedin.com/in/yuangang-li/" },
-    { "name": "twitter", "icon": "icon-twitter-1", "url": "https://www.linkedin.com/in/yuangang-li/" },
-    { "name": "linkedin", "icon": "icon-linkedin-1", "url": "https://www.linkedin.com/in/yuangang-li/" },
-    { "name": "behance", "icon": "icon-behance", "url": "https://www.linkedin.com/in/yuangang-li/" }
+    { "name": "facebook", "icon": "icon-facebook-1", "url": "https://www.facebook.com/18.of.August/" },
+    { "name": "twitter", "icon": "icon-twitter-1", "url": "https://www.facebook.com/18.of.August/" },
+    { "name": "linkedin", "icon": "icon-linkedin-1", "url": "https://www.facebook.com/18.of.August/" },
+    { "name": "behance", "icon": "icon-github", "url": "https://www.facebook.com/18.of.August/" }
   ],
   "contact": {
-    "address": "3650 McClintock Ave, Los Angeles, CA",
+    "address": "Ha Noi",
     "email": "yuangangli@outlook.com",
     "phn": "+1 213 421 9602"
   }
