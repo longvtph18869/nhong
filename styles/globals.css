@@ -1,0 +1,102 @@
+@import "swiper/css";
+
+@import "../public/css/plugins.css";
+@import "../public/css/dark.css";
+@import "../public/css/style.css";
+
+.c-pointer {
+  cursor: pointer;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.owl-dots.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal {
+  margin-top: 64px;
+}
+
+span.swiper-pagination-bullet {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  background-color: #f75023;
+  position: relative;
+  margin: 0px 12px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+span.swiper-pagination-bullet.swiper-pagination-bullet-active::before {
+  position: absolute;
+  content: "";
+  top: -5px;
+  bottom: -5px;
+  left: -5px;
+  right: -5px;
+
+  border-radius: 100%;
+  border: 2px solid #ffb324;
+  /* z-index: -1; */
+  -webkit-transition: all 0.5s ease;
+  -moz-transition: all 0.5s ease;
+  -ms-transition: all 0.5s ease;
+  -o-transition: all 0.5s ease;
+  transition: all 0.5s ease;
+}
+
+/* image popup */
+img.mfp-img {
+  box-shadow: 0 0 8px rgb(0 0 0 / 60%);
+  position: absolute;
+  max-height: 392px;
+  padding: 0 !important;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.mfp-img-container .mfp-content {
+  max-width: 400px !important;
+}
+.mfp-img-container .mfp-close {
+  top: -110px;
+  right: -24px;
+}
+.main-menu li.active > a,
+.header-navigation .main-menu ul > li.has-children.active > a:after {
+  color: #ff344f !important;
+}
+
+span.current {
+  color: unset !important;
+}
+.owl-carousel {
+  display: unset !important;
+}
+
+.py-50 {
+  padding: 50px 0;
+}
+
+.progress-block .graph-outer .count-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 0;
+  top: 50% !important;
+  width: 111%;
+  margin-top: 0px !important;
+}
+
+.block-fourty-six .ul {
+  margin-bottom: 5px;
+}
+.block-fourty-six .ul i {
+  color: #be9a78;
+}
+
+.map-section iframe {
+  height: 600px;
+  width: 100%;
+}
